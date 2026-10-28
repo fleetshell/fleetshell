@@ -37,7 +37,7 @@ Host keys you have not seen are shown for you to compare; a changed key is refus
 | Windows | Microsoft Store | Coming soon |
 | Linux | Snap Store, `.deb` and `.tar.gz` on [Releases](https://github.com/fleetshell/fleetshell/releases) | Coming soon |
 
-Free to start; Pro is a one-time $9.99 purchase. Fleetshell 2.0 succeeds SSH Tunnel Manager: saved tunnels and trusted host keys carry over.
+Free to start; Pro is a one-time $9.99 purchase.
 
 ## Help and feedback
 
